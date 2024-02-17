@@ -1,0 +1,4 @@
+#Sat Feb 11 18:58:20 IST 2023
+base.0=/Users/dreamworld/Documents/Party/Semi11-Fantasy-app/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
